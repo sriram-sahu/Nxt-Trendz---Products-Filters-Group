@@ -8,7 +8,7 @@ import './index.css'
 const Products = () => (
   <>
     <Header />
-    <div className="product-sections">
+    <div className="product-section">
       <PrimeDealsSection />
       <AllProductsSection />
     </div>
